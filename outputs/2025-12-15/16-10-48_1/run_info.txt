@@ -1,0 +1,10 @@
+Anualization_factor = 296
+traffic_anualization = 310
+vot_growth = 0.014
+vot_growth_2 = 0.011
+vot_growth_3 = 0.01
+Suppressed_ratio_ref = [1.2, 1.2, 1.2, 1.2]
+max_cap_factor = 0
+min_cap_factor = 0
+elasticity = 0.75
+induction = 1.11
